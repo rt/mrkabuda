@@ -1,5 +1,7 @@
 # mrkabuda
 
+Configurable way to make a 3D keyboard model.
+
 http://adereth.github.io/blog/2014/04/09/3d-printing-with-clojure/
 
 **Generating the design**

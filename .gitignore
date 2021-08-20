@@ -1,4 +1,5 @@
 things/*
+.tags
 /target
 /classes
 /checkouts
